@@ -1,0 +1,39 @@
+.uhhh_parent {
+	display: flex;
+	width: 100dvw;
+	height: 100dvh;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column-reverse;
+}
+
+html {
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	background-color: #E40A09;
+	overflow-x: hidden;
+	color: #AFE5F1;
+	user-select: none;
+}
+
+svg:hover{
+	cursor: pointer;
+}
+.uhhh_parent2{
+	width: 100dvw;
+	height: 50dvh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 20px;
+}
+.article_p1{
+	font-size: 20px;
+	color:#AFE5F1;
+	font-weight: 500;
+}
+
+.parent2child{
+	width: 500px;
+}
